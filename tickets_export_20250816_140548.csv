@@ -1,0 +1,3 @@
+ticket_id,subject,description,priority,assigned_team,status,created_at,resolved_at,resolution
+TKT-20250816134457,Data Breach,Data Breach from our system,Critical,Technical Support,Open,2025-08-16 13:44:57.827895,,
+TKT-20250816140441,Data Breach,Data Breach from our databases,Critical,Technical Support,Resolved,2025-08-16 14:04:41.028022,2025-08-16 14:05:30.684136,solved

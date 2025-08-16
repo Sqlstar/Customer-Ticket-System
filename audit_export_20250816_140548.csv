@@ -1,0 +1,4 @@
+timestamp,ticket_id,action,user,details
+2025-08-16 13:44:57.841012,TKT-20250816134457,creation,admin,Assigned to Technical Support
+2025-08-16 14:04:41.028022,TKT-20250816140441,creation,admin,Assigned to Technical Support
+2025-08-16 14:05:30.684136,TKT-20250816140441,resolution,admin,Resolution: solved...
